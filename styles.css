@@ -1,0 +1,53 @@
+@import url("https://use.typekit.net/hqh8zfz.css");
+
+body{
+    background-color: rgb(49, 49, 49);
+    font-family: "littlebit-square-variable", sans-serif;
+    font-variation-settings: "OPEN" 1, "BLOC" 1;
+    font-size: 130px;
+    color: whitesmoke; 
+}
+
+body h3:hover{
+    font-family: "roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 130px;
+    color: whitesmoke; 
+}
+
+.element{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    height: 1200px;
+    background-color:lightseagreen;
+}
+
+a{
+    font-size: 30px;
+    color: white;
+}
+#prev{
+    width: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+#exit{
+    width: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#left-page{
+    width: 40%;
+}
+
+#right-page{
+    width: 40%;
+}
+
